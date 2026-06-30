@@ -10,7 +10,7 @@ Tech Stack
 
 Python 3.11+
 SQLite3
-Helius API (Solana enhanced transactions)
+Helius API 
 requests, python-dotenv
 Features
 
